@@ -1,0 +1,52 @@
+[
+	{
+		"question": "Ile jest osób w sali 32?",
+		"answers": ["12", "10", "2", "15"],
+		"correctAnswer": 3
+	},
+	{
+		"question": "Jaki jest wzór na drzwiach w sali 36?",
+		"answers": ["Δ=b2-4ac", "P=a2", "E=mc2", "OBJ= a3"],
+		"correctAnswer": 2
+	},
+	{
+		"question": "Czy na końcu korytarza jest plakat Technika grafiki i poligrafii cyfrowej?",
+		"answers": ["TAK", "NIE"],
+		"correctAnswer": 0
+	},
+	{
+		"question": "W jakiej sali jest znak CISCO?",
+		"answers": ["w sali 33", "w sali 36", "w sali 35", "w sali 37"],
+		"correctAnswer": 2
+	},
+	{
+		"question": "W których salach nie są włączone projektory?",
+		"answers": ["w sali 33 i 36", "w sali 36 i 37", "w sali 35 i 34", "w sali 37 i 34"],
+		"correctAnswer": 1
+	},
+	{
+		"question": "Ile jest gaśnic na korytarzu?",
+		"answers": ["0", "1", "2", "3"],
+		"correctAnswer": 2
+	},
+	{
+		"question": "W której sali jest napis \"Technik grafiki i poligrafii cyfrowej\"?",
+		"answers": ["w sali 36", "w sali 34", "w sali 37", "w sali 33"],
+		"correctAnswer": 2
+	},
+	{
+		"question": "Jakiego koloru znajduje się plakat na drzwiach do sali 33?",
+		"answers": ["Różowego", "Żółtego", "Zielonego", "Białego"],
+		"correctAnswer": 0
+	},
+	{
+		"question": "W jednej z sali ukrył się polityk, w której?",
+		"answers": ["w sali 35", "w sali 37", "w sali 32", "w sali 34"],
+		"correctAnswer": 2
+	},
+	{
+		"question": "Ile jest klimatyzatorów w sali 33?",
+		"answers": ["0", "1", "2", "3"],
+		"correctAnswer": 2
+	}
+]
